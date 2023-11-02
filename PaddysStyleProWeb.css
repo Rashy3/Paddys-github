@@ -1,0 +1,259 @@
+body
+{
+
+background-color: green;
+border: double gray 5px;
+padding: 5px;
+margin: 0px;
+margin-bottom: 0px;
+
+}
+
+
+header
+{
+
+border: solid 2px yellow;
+margin: 5px;
+padding-left: 105px;
+padding-right: 100px;
+padding-bottom: 0px;
+background-color: rgb(192,192,192);
+
+}
+
+
+a
+{
+
+color: white;
+display: inline-block;
+text-decoration: none;
+margin-left: 70px;
+margin-right: 70px;
+
+}
+
+nav 
+{
+
+border: solid 2px yellow;
+margin-left: 5px;
+margin-right: 5px;
+margin-top: 0px;
+margin-bottom: 0px;
+
+}
+
+#content
+{
+
+margin-left: 5px;
+margin-right: 5px;
+background-color: white;
+
+}
+
+
+#gauche
+{
+
+float: left;
+border-right: solid 3px green;
+margin: 12px;
+margin-right: 10px;
+margin-left: 10px;
+padding: 3px;
+
+}
+
+#Tabach
+{
+
+border-bottom: solid 3px green;
+
+}
+
+
+#Tabacp
+{
+
+border:  double 1px black;
+color: red;
+
+}
+
+#Tabac
+{
+
+color: red;
+font-size: 1em;
+
+}
+
+
+#pizp
+{
+
+color: red;
+border: solid 1px black;
+
+}
+
+#droit
+{
+
+padding-right: 0px;
+margin: 5px;
+
+}
+
+#sous-droit-haut
+{
+
+padding-right: 0px;
+margin: 0px;
+
+}
+
+
+#prox
+{
+
+font-family: "Times New Roman",  serif;
+font-size: 1.1em;
+
+}
+
+#sous-droit-gauche
+{
+
+padding: 0px;
+margin: 0px;
+borde: solid 3px black;
+display: inline-block;
+
+}
+
+
+#Ins
+{
+
+font-size: 1em;
+display: inline-bloc;
+
+}
+
+
+#sous-droit-gauche-bas
+{
+
+background: url("IMG/HexaFont.jpg") scroll no-repeat left;
+margin-left: 0px;
+margin-right: 30px;
+padding: 0px;
+
+}
+
+
+#con
+{
+
+font-style: italic;
+font-style: oblique;
+font-size: 1.5em;
+font-family: Arial Georgia, "Comic sans MS", sans serif;
+
+}
+
+
+#ven
+{
+
+font-style: italic;
+font-style: oblique;
+font-size: 1.4em;
+color:blue;
+
+}
+
+
+#date
+{
+
+color: indigo;
+font-style: italic;
+font-size: 1.5em;
+font-family: Georgina Arial, serif;
+
+}
+
+
+#pad
+{
+
+font-size: 1.5em;
+font-family: Georgia;
+color: rgb(0,168,168);
+
+}
+
+#nur
+{
+
+color: rgb(0,255,255);
+font-style: italic;
+
+}
+
+
+#resto
+{
+
+border: solid 1px gray;
+display: inline-block;
+margin-right: 25px;
+margin-top: 30px;
+padding: 0px;
+
+}
+
+
+#Font
+{
+
+border-top: solid 3px green;
+border-left: solid 3px green;
+border-right: solid 3px green;
+border-bottom: solid 1px gray;
+display: inline-block;
+margin-top: 0px;
+margin-bottom: 35px;
+margin-right: 0px;
+padding: 0px;
+
+}
+
+
+#foot
+{
+
+border: solid 3px silver;
+padding-top:35px;
+padding-bottom: 15px;
+padding-left: 350px;
+margin-left: 270px;
+margin-right:50px;
+
+}
+
+
+u
+{
+
+padding: 0px;
+font-size: 1.7em;
+font-family: Georgia, "Comic Sans MS";
+font-style: italic;
+
+}

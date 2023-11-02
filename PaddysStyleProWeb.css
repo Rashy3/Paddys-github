@@ -1,11 +1,13 @@
 body
 {
 
-background-color: green;
-border: double gray 5px;
-padding: 5px;
-margin: 0px;
-margin-bottom: 0px;
+  background-color: green;
+  border: double gray 5px;
+  padding: 5px;
+  margin: 0px;
+  margin-bottom: 0px;
+  height: 100%;
+  width: 100%;
 
 }
 
@@ -13,12 +15,12 @@ margin-bottom: 0px;
 header
 {
 
-border: solid 2px yellow;
-margin: 5px;
-padding-left: 105px;
-padding-right: 100px;
-padding-bottom: 0px;
-background-color: rgb(192,192,192);
+  border: solid 2px yellow;
+  margin: 5px;
+  padding-left: 105px;
+  padding-right: 100px;
+  padding-bottom: 0px;
+  background-color: rgb(192,192,192);
 
 }
 
